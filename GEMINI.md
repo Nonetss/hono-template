@@ -1,4 +1,4 @@
-# Project Context: Scrapy Backend (Movida)
+# Project Context: Hono Template
 
 ## Overview
 
@@ -12,7 +12,6 @@ This project is a backend API service built with **Hono**, **Bun**, and **Drizzl
 - **ORM:** [Drizzle ORM](https://orm.drizzle.team/)
 - **Validation:** [Zod](https://zod.dev/)
 - **Documentation:** [Scalar](https://scalar.com/)
-- **Scraping/Network:** Cheerio, Playwright, Axios
 
 ## Architecture & Project Structure
 
